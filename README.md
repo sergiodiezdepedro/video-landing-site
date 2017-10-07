@@ -1,4 +1,4 @@
-# Full Width Video landing Site
+# Full Width Video Landing Site
 
 Un mockup de un *landing site* responsive con un vídeo de fondo que siempre ocupa el 100% del viewport.
 
